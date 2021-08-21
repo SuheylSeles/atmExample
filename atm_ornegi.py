@@ -31,18 +31,3 @@ while True:
             continue
         bakiye = bakiye - miktar
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
